@@ -1,0 +1,6 @@
+{
+  "name": "Advanced Calculator",
+  "description": "A feature-rich scientific calculator with basic keys (including double zero) and a mathematical equations menu for advanced algebraic, trigonometric, and statistical computations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
